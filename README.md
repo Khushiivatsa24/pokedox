@@ -6,3 +6,6 @@ I took more time in debugging than writing the actual code. And guess what it wa
 
 ## Live Demo
 https://khushiivatsa24.github.io/pokedox/
+
+## ScreenShot
+<img width="1920" height="937" alt="image" src="https://github.com/user-attachments/assets/a3065c98-37b9-433b-b1fe-059d07503c2b" />
